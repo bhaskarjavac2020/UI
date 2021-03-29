@@ -5,7 +5,7 @@ class Forgot extends React.Component{
     render(){
         return(
             <Grid>
-                <h1>You are forgotten password</h1>                
+                <h1>You are now forgotten password</h1>                
             <Switch>
                 <NavLink to="/home">Home</NavLink>
             </Switch>
